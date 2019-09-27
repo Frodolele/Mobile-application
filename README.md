@@ -5,6 +5,7 @@
 # Сроки 
 ## 1 модуль: 
 # Стек технологий
-1. MySQL
+1. SQL Server
 2. Java
 3. Swift
+4. PHP
