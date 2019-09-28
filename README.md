@@ -10,8 +10,7 @@
 Добавление запросов к БД 
 # Стек технологий
 1. MS SQL Server
-2. Java
+2. PHP или SQL
 3. Swift
-4. PHP или SQL
-
+4. Java
 
